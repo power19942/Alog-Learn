@@ -1,1 +1,11 @@
 # Alog-Learn
+- [ ] Loops and recursion
+- [ ] Arrays and matrices
+- [ ] Linked lists
+- [ ] Queues, stacks, heaps, 
+- [ ] Sets and hash maps,
+- [ ] Trees and binary search,
+- [ ] Graphs,
+- [ ] Depths first search, breadth first search, and backtracking
+- [ ] Tries,
+- [ ] Merge sort and quick sort
