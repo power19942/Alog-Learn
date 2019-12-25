@@ -14,3 +14,4 @@
 - [ ] Greedy Algorithms,
 - [ ] Logical/Mathematical proof techniques
 - [ ] SOLID
+- [ ] OOP
