@@ -9,3 +9,8 @@
 - [ ] Depths first search, breadth first search, and backtracking
 - [ ] Tries,
 - [ ] Merge sort and quick sort
+- [ ] Dynamic Programming (Memoization and Divide-and-Conquer)
+- [ ] Problems with Multiple Pointers or Sliding Windows
+- [ ] Greedy Algorithms,
+- [ ] Logical/Mathematical proof techniques
+- [ ] SOLID
